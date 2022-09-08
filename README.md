@@ -18,7 +18,7 @@ Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of
 
 The official documentation for the Black Dashboard is hosted By `Creative-Tim`:
 
-- 👉 [Black Dashboard UI Docs](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html?AFFILIATE=128200).
+> 👉 [Black Dashboard UI Docs](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html?AFFILIATE=128200).
 
 <br />
 
