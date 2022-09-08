@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] 2022-09-08
+### Improvements
+
+- Added Persistent Dark-Mode
+- New page: SignIN
+
 ## [1.0.1] 2018-09-01
 ### Bug Fixing
   - responsive issues
