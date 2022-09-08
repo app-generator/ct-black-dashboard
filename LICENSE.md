@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2017 Creative Tim (https://www.creative-tim.com)
+Copyright (c) 2022 - present App Generator
+
+> Note: Initially coded by Creative Tim (https://bit.ly/3fKQZaL)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
